@@ -1,3 +1,3 @@
 ## Scratch App Test
 ### Build from Turbowarp
-### [Load App In Browser](https://github.com/TurquoiseTNT/ScratchAppTest/app.html)
+### [Load App In Browser](https://turquoisetnt.github.io/ScratchAppTest/ScratchApp.html)
